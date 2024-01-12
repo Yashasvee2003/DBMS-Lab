@@ -1,0 +1,18 @@
+DOUBTS :
+1) NUMBER(x, y) meaning???
+
+2)how to extract year from cuurent date 
+
+3) on delete cascade, on delete set null usage
+
+4) what are the date formats in sql plus
+
+
+
+NOTE :
+
+1) ***look at date, math, string related functions****
+2) diff in syntax for alter table add and alter table modify
+3) all args which dont have an aggregate func in select clause must be present in the group by clause
+4) 'fetch first n rows only' is used at the end of our query to return exactly what it means
+5) set operations in sql
